@@ -1,0 +1,107 @@
+{
+  "users": [
+    {
+      "username": "scaryemre",
+      "fullname": "Taha Emre Sevgilice",
+      "password": "fa677dc7097fc9e46bfda2936c9ef5150f1a5bb4d253c714735c9d59666d9847",
+      "id": 1
+    },
+    {
+      "username": "scaryemre",
+      "fullname": "Taha Emre",
+      "password": "fa677dc7097fc9e46bfda2936c9ef5150f1a5bb4d253c714735c9d59666d9847",
+      "id": 2
+    },
+    {
+      "username": "bllmrt",
+      "fullname": "Bilal Mert",
+      "password": "fa677dc7097fc9e46bfda2936c9ef5150f1a5bb4d253c714735c9d59666d9847",
+      "id": 3
+    }
+  ],
+  "bookmarks": [
+    {
+      "id": 1
+    },
+    {
+      "title": "vue dökümantasyon",
+      "url": "https://v3.vuejs.org",
+      "category_id": "Vue.js",
+      "desctiption": "dünyanın en güzel frameworku",
+      "user_id": 1,
+      "created_at": "2024-09-08T12:56:18.502Z",
+      "id": 2
+    },
+    {
+      "title": "vue js dokümantasyon",
+      "url": "https://www.vuejs.org",
+      "category_id": "Vue.js",
+      "desctiption": "js framework",
+      "user_id": 1,
+      "created_at": "2024-09-08T12:58:28.539Z",
+      "id": 3
+    },
+    {
+      "title": "sdkskd",
+      "url": "dksdsld",
+      "category_id": "Angular.js",
+      "desctiption": "ldsldsldlsld",
+      "user_id": 1,
+      "created_at": "2024-09-08T13:15:59.322Z",
+      "id": 4
+    },
+    {
+      "title": "Vuejs",
+      "url": "vue.js.org",
+      "category_id": "Vue.js",
+      "desctiption": "frontend framework",
+      "user_id": 1,
+      "created_at": "2024-09-08T13:21:09.679Z",
+      "id": 5
+    },
+    {
+      "title": null,
+      "url": null,
+      "category_id": null,
+      "desctiption": null,
+      "user_id": 1,
+      "created_at": "2024-09-08T13:21:38.494Z",
+      "id": 6
+    },
+    {
+      "title": null,
+      "url": null,
+      "category_id": null,
+      "desctiption": null,
+      "user_id": 1,
+      "created_at": "2024-09-08T13:21:43.253Z",
+      "id": 7
+    }
+  ],
+  "categories": [
+    {
+      "name": "Vue.js",
+      "id": 1
+    },
+    {
+      "name": "React.js",
+      "id": 2
+    },
+    {
+      "name": "Angular.js",
+      "id": 3
+    },
+    {
+      "name": "Frontend",
+      "id": 4
+    },
+    {
+      "name": "Backend",
+      "id": 5
+    },
+    {
+      "name": "Cloud",
+      "id": 6
+    }
+  ]
+}
